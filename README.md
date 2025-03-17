@@ -1,5 +1,10 @@
 
 <div>
+  <style>
+    a: {
+      text-decoration: none;
+    }
+  </style>
   <h1>
     👋 Hi I'm Denis Dzib! 
   </h1>
@@ -55,17 +60,17 @@
     </a>
   <h2>📊 GitHub Stats:</h2>
   <div align="center">
-    <a height="200" href="https://github.com/deagonzDad">
+    <a height="200" href="#">
       <img src="https://github-readme-stats.vercel.app/api?username=deagonzDad&theme=dark&hide_border=false&include_all_commits=true&count_private=false">
     </a>
-    <a height="200" href="https://github.com/deagonzDad">
+    <a height="200" href="#">
       <img src="https://nirzak-streak-stats.vercel.app/?user=deagonzDad&theme=dark&hide_border=false">
     </a>
-    <a height="200" href="https://github.com/deagonzDad">
+    <a height="200" href="#">
       <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deagonzDad&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
     </a>
     <br/>
-    <a height="200" href="https://github.com/deagonzDad">
+    <a height="200" href="#">
       <img alt="Visitor Stats" 
         src="https://widgetbite.com/stats/deagonzDad"
       />  
