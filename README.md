@@ -1,5 +1,10 @@
-## Hi there 👋
 
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deagonzDad&hide=contribs,prs&show_icons=true&hide_rank=false&rank_icon=github">
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deagonzDad&layout=donut"/>
+</a>
 <!--
 **deagonzDad/deagonzDad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
