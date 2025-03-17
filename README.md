@@ -1,10 +1,5 @@
 
 <div>
-  <style>
-    a: {
-      text-decoration: none;
-    }
-  </style>
   <h1>
     👋 Hi I'm Denis Dzib! 
   </h1>
@@ -15,10 +10,10 @@
     <li>✨ I like connecting with different people, I'll be happy to meet you!</li>
   </ul>
   <h2>🌐 Socials</h2>
-    <a href="https://linkedin.com/in/denis-dzib-091469171">
+    <a href="https://linkedin.com/in/denis-dzib-091469171" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedIn"/>
     </a>
-    <a href="mailto:deagonz.5@gmail.com">
+    <a href="mailto:deagonz.5@gmail.com" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="gmail"/>
     </a>
   <h2>💻 Tech I use</h2>
